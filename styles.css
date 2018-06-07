@@ -1,0 +1,86 @@
+.mainpage{
+
+	margin-left: 72px;
+	margin-right: 72px;
+	font-family: Arial;
+  }
+
+h1{
+	background-color: #3EA99F;
+	font-size: 3.75em;
+	color: white;
+	text-align: center;
+  }
+
+.container{
+
+	  text-align: center;
+}
+  
+
+ul.listwithlink , ul.listwithlink a{
+	text-align: left;
+	list-style-type: square;
+	color: #B5B35C;
+    font-size: 20px;
+    display: inline-block;
+    line-height: 1.8;
+
+  }
+
+  .dishes{
+
+  	 color: white;
+  	 background-color: purple;
+  	 font-size: 2.3em;
+  	 padding-left: 7px;
+  	 padding-bottom: 2px;
+  	 padding-top: 2px;
+  }
+
+  .img{
+
+  	  border-style: solid;
+  	  border-color: black;
+  }
+
+  #img1{
+
+  	 border-width: 1.5px 1.5px 1.5px 2px;
+  }
+
+  #img3{
+
+  	border-width: 1.5px 2px 1.5px 2px;
+  }
+
+ #paragraphs{
+
+ 	font-size: 1.2em;
+ }
+
+ a{
+ 	color: #B5B35C;
+ }
+
+  .listsinarticle{
+
+  	line-height: 2.2;
+  	font-size: 1.2em;
+  }
+
+  .heading3{
+
+  	 font-size: 1.9em;
+  	 text-decoration: underline;
+  	 text-decoration-color: #30BFBF;
+  }
+
+  #footer1
+  {
+  	background-color: #036754;
+  	color: white;
+  	font-size: 1.8em;
+  	padding-left: 10px;
+  	padding-right: 4px;
+  }
